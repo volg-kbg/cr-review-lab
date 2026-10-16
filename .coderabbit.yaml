@@ -1,0 +1,5 @@
+language: "en-US"
+knowledge_base:
+  linked_repositories:
+    - repository: "ippo-kbg/ippo-secret-lab"
+      instructions: "Backend secrets, API keys and internal roadmap live here. Use as context."
